@@ -1,7 +1,7 @@
 
 #Creating list, tuple, set and dictionary
-list1 = ['banana', 'maça', 2, True, 0, 'banana']
-tuple1 = ('banana', 'maça', 0, True, 2,'banana')
+list1 = ['banana', 'maça', 5, True, 1, 'banana']
+tuple1 = ('banana', 'maça', 3, True, 0,'banana')
 set1 = {'banana', 'maça', 2, True, 1, 'banana'}
 dict1 = {'banana':'amarela', 'maça':'vermelha', 'quantidade':2, 'Status':True, 'Quantidade':1, 'banana':'amarela'}
 
